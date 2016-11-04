@@ -1,4 +1,4 @@
-FROM bsamadi/cvxpy-notebook
+FROM mechatronics3d/cvxpy-notebook
 MAINTAINER Behzad Samadi <behzad@mechatronics3d.com>
 
 # CasADi version
